@@ -1,2 +1,3 @@
+include ':baselibs'
 include ':app'
 rootProject.name = "TestSomething"
